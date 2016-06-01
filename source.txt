@@ -200,31 +200,34 @@ https://github.com/allisson/django-pagseguro2/pull/6
 https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
 https://docs.python.org/3/tutorial/classes.html#class-and-instance-variables
 
-class Canil:
-    caes = []
+class Dog:
+    tricks = []
 
-    def adicionar_cao(self, cao):
-        self.caes.append(cao)
+    def __init__(self, name):
+        self.name = name
 
-    def imprimir_caes(self):
-        for cao in self.caes:
-            print(cao)
+    def add_trick(self, trick):
+        self.tricks.append(trick)
 
-In [54]: c1 = Canil()
+    def print_tricks(self):
+        for trick in self.tricks:
+            print(trick)
 
-In [55]: c1.adicionar_cao('dálmata')
+In [54]: teddy = Cachorro()
 
-In [56]: c1.imprimir_caes()
-dálmata
+In [55]: teddy.add_trick('roll over')
 
-In [57]: c2 = Canil()
+In [56]: c1.print_tricks()
+roll over
 
-In [58]: c2.imprimir_caes()
-dálmata
+In [57]: tico = Cachorro()
 
-class Canil:
+In [58]: tico.print_tricks()
+roll over
+
+class Dog:
     def __init__(self):
-        self.caes = []
+        self.tricks = []
 
     # ...
 
