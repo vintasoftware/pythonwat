@@ -1,3 +1,5 @@
 http://nbconvert.readthedocs.io/en/latest/usage.html?highlight=slide#convert-revealjs
 
-https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516
+http://neuroscience.telenczuk.pl/?p=607
+
+http://www.slideviper.oquanta.info/tutorial/slideshow_tutorial_slides.html#/
