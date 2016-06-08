@@ -23,3 +23,18 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.notebook_app.rise-enabled {
+    background-image: url('../files/background.jpg');
+    background-size: contain;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.rise-enabled .reveal aside.controls {
+    display: none !important;
+}
+
+.rise-enabled .reveal .slide-number {
+    display: none;
+}
