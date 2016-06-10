@@ -1,0 +1,36 @@
+.slides .CodeMirror-code, .reveal .code_cell {
+    font-size: 26px;
+}
+
+.slides .CodeMirror-code .cm-comment, .reveal .code_cell .highlight .c1 {
+    font-style: normal;
+}
+
+.slides .text_cell_render.rendered_html {
+    font-size: 28px;
+}
+
+.slides .output_subarea.output_error {
+    font-size: 20px;
+}
+
+.slides .rendered_html img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.notebook_app.rise-enabled {
+    background-image: url('../files/background.jpg');
+    background-size: contain;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.rise-enabled .reveal aside.controls {
+    display: none !important;
+}
+
+.rise-enabled .reveal .slide-number {
+    display: none;
+}
