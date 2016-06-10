@@ -5,6 +5,7 @@ This is a Jupyter Notebook with RISE plugin, so you'll need to install both to s
 ## How to see the slides
 ### Install:
 ```
+git clone --recursive git@github.com:vintasoftware/pythonwat.git  # clone with all submodules
 virtualenv venv -p python3
 source venv/bin/activate
 pip install -r requirements.txt
