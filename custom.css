@@ -28,7 +28,7 @@
 }
 
 .reveal {
-    background-image: url('/background.jpg');
+    background-image: url('background.jpg');
     background-size: contain;
     background-position: center right;
     background-repeat: no-repeat;
