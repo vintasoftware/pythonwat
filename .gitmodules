@@ -3,4 +3,4 @@
 	url = https://github.com/hakimel/reveal.js
 [submodule "RISE"]
 	path = RISE
-	url = git@github.com:vintasoftware/RISE.git
+	url = https://github.com/vintasoftware/RISE
