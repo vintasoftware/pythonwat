@@ -21,7 +21,7 @@ cd ..  # back to pythonwat/
 2. Open Python WAT.ipynb at http://localhost:8888/tree
 3. Click this button to see the slides:
 ![where to click to see the slides](https://cloud.githubusercontent.com/assets/397989/15974706/2e85883c-2f20-11e6-8fab-97b0a8b0c5f6.png)
-4. To run code on slides, click the cell and press `SHIFT + Enter`. Click on the `?` on the bottom left for more key shortcuts.
+4. To run code on slides, click the cell and press `Shift + Enter`. To move forward, `ESC` if any cell is selected and use `Space`. To move back, use `Shift + Space`. To exit slides mode, use `Alt + R`. Click on the `?` on the bottom left for more key shortcuts.
 
 ### More info about Jupyter Notebook slides:
 **Some of these links might have out-of-date info!**  Please create an issue if you have any trouble.
