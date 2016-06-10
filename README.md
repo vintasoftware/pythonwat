@@ -1,8 +1,9 @@
 # Python WAT
-Here are the slides of Python WAT talk given at Python Nordeste 2016 conference. In Portuguese only.  
-This is a Jupyter Notebook with RISE plugin, so you'll need to install both to see the slides.
+Here are the interactive slides of Python WAT talk given at Python Nordeste 2016 conference. In Portuguese only.  
+This is a Jupyter Notebook with RISE plugin, so you'll need to install both to see the slides.  
+For the non-interactive version, see: http://vintasoftware.github.io/pythonwat/
 
-## How to see the slides
+## How to see the interactive slides
 ### Install:
 ```
 git clone --recursive git@github.com:vintasoftware/pythonwat.git  # clone with all submodules
