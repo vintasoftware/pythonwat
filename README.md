@@ -6,13 +6,14 @@ This is a Jupyter Notebook with RISE plugin, so you'll need to install both to s
 ### Install:
 ```
 git clone --recursive git@github.com:vintasoftware/pythonwat.git  # clone with all submodules
+cd pythonwat/
 virtualenv venv -p python3
 source venv/bin/activate
 pip install -r requirements.txt
 ln -s -f $(pwd)/custom.css ./venv/lib/python3.5/site-packages/notebook/static/custom/custom.css  # replace your Python 3.x version if necessary
 cd RISE/
 python setup.py install  # inside RISE/
-cd ..  # back to project root
+cd ..  # back to pythonwat/
 ```
 
 ### Run:
