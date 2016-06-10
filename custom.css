@@ -27,6 +27,13 @@
     background-repeat: no-repeat;
 }
 
+.reveal {
+    background-image: url('/background.jpg');
+    background-size: contain;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
 .rise-enabled .reveal aside.controls {
     display: none !important;
 }
