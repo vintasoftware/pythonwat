@@ -1,8 +1,8 @@
-.slides .CodeMirror-code {
+.slides .CodeMirror-code, .reveal .code_cell {
     font-size: 26px;
 }
 
-.slides .CodeMirror-code .cm-comment {
+.slides .CodeMirror-code .cm-comment, .reveal .code_cell .highlight .c1 {
     font-style: normal;
 }
 
@@ -22,6 +22,13 @@
 
 .notebook_app.rise-enabled {
     background-image: url('../files/background.jpg');
+    background-size: contain;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.reveal {
+    background-image: url('/background.jpg');
     background-size: contain;
     background-position: center right;
     background-repeat: no-repeat;
