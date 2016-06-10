@@ -18,11 +18,12 @@ cd ..  # back to project root
 1. `jupyter notebook`
 2. Open Python WAT.ipynb at http://localhost:8888/tree
 3. Click this button to see the slides:
-
+![where to click to see the slides](https://cloud.githubusercontent.com/assets/397989/15974706/2e85883c-2f20-11e6-8fab-97b0a8b0c5f6.png)
 4. To run code on slides, click the cell and press `SHIFT + Enter`. Click on the `?` on the bottom left for more key shortcuts.
 
 ### More info about Jupyter Notebook slides:
-**Some of these links might have out-of-date info!**
+**Some of these links might have out-of-date info!**  Please create an issue if you have any trouble.
+https://github.com/damianavila/RISE  
 http://neuroscience.telenczuk.pl/?p=607  
 http://www.slideviper.oquanta.info/tutorial/slideshow_tutorial_slides.html#/  
 http://www.svds.com/jupyter-notebook-best-practices-for-data-science/  
